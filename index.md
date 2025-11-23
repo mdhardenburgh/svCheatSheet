@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/dark.css">
+
 # Procedural Models
 
 * Come in two flavors, behavioral or functional.
