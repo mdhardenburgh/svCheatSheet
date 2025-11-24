@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/dark.css">>
+<link rel="stylesheet" href="assets/css/dark.css">
 
 # Procedural Models
 
